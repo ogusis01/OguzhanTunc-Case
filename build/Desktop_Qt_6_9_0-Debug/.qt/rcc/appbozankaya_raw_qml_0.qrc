@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/bozankaya/">
+    <file alias="Main.qml">/home/ogusis/bozankaya/Main.qml</file>
+    <file alias="resources.qrc">/home/ogusis/bozankaya/resources.qrc</file>
+  </qresource>
+</RCC>
+

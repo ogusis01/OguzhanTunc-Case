@@ -1,0 +1,58 @@
+{
+    "classes": [
+        {
+            "className": "XmlParser",
+            "lineNumber": 8,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "filePath",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "parseScene",
+                    "returnType": "QList<QVariantMap>"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "XmlParser",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "message",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "errorOccurred",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newScene",
+                            "type": "QList<QVariantMap>"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "sceneChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "xmlparser.h",
+    "outputRevision": 69
+}

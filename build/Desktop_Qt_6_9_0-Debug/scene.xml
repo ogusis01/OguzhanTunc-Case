@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene width="800" height="600">
+<Shapes>
+<Rectangle id="rect1" x="100" y="20" width="200" height="100" color="#FF5733"/>
+<Circle id="circle1" cx="300" cy="150" radius="50" color="#33FF57"/>
+<Line id="line1" x1="50" y1="280" x2="730" y2="280" color="#337BFF" thickness="3"/>
+<Image id="img1" x="500" y="50" width="250" height="250" path="images/sample.png"/>
+<Text id="text1" x="0" y="0" size="20" color="#000000">UDP Data Visualization</Text>
+<Rectangle id="rect2" x="10" y="150" width="200" height="100" color="#33FF57"/>
+</Shapes>
+</Scene>

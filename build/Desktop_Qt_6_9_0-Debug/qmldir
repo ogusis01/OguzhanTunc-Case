@@ -1,0 +1,7 @@
+module Bozankaya
+linktarget BozankayaCaseplugin
+optional plugin BozankayaCaseplugin
+classname BozankayaPlugin
+typeinfo BozankayaCase.qmltypes
+prefer :/qt/qml/Bozankaya/
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/bozankaya">/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/bozankaya</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,26 @@
+{
+    "classes": [
+        {
+            "className": "CanScanner",
+            "lineNumber": 7,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "scanCanInterfaces",
+                    "returnType": "QStringList"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "CanScanner",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "canscanner.h",
+    "outputRevision": 69
+}

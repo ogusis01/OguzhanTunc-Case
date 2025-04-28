@@ -1,0 +1,82 @@
+2025-04-27 11:46:01 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-27 11:51:05 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-27 11:51:13 [ERROR]: Failed to join multicast group: 0.0.0.0
+2025-04-27 11:51:21 [ERROR]: Failed to join multicast group: 
+2025-04-27 11:54:52 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-27 12:12:55 [INFO]: Successfully bound to port 0
+2025-04-27 12:12:55 [ERROR]: Failed to join multicast group: 
+2025-04-27 12:12:58 [INFO]: Successfully bound to port 0
+2025-04-27 12:12:58 [ERROR]: Failed to join multicast group: 
+2025-04-27 12:13:00 [INFO]: Successfully bound to port 0
+2025-04-27 12:13:00 [ERROR]: Failed to join multicast group: 
+2025-04-27 12:13:22 [INFO]: Successfully bound to port 50002
+2025-04-27 12:13:22 [INFO]: Successfully joined multicast group: 239.255.0.1
+2025-04-27 12:13:22 [INFO]: Received UDP message: Hello from C 50002 Publisher!
+2025-04-27 12:13:24 [INFO]: Received UDP message: Hello from C 50002 Publisher!
+2025-04-27 12:13:25 [INFO]: Stopped listening to multicast group and closed socket.
+2025-04-27 12:22:18 [INFO]: Successfully bound to port 0
+2025-04-27 12:22:18 [ERROR]: Failed to join multicast group: 
+2025-04-27 12:22:23 [INFO]: Successfully bound to port 50002
+2025-04-27 12:22:23 [INFO]: Successfully joined multicast group: 239.255.0.1
+2025-04-27 12:22:25 [INFO]: Received UDP message: Hello from C 50002 Publisher!
+2025-04-27 12:22:26 [INFO]: Stopped listening to multicast group and closed socket.
+2025-04-27 12:22:28 [INFO]: Successfully bound to port 50002
+2025-04-27 12:22:28 [INFO]: Successfully joined multicast group: 239.255.0.1
+2025-04-27 12:22:29 [INFO]: Received UDP message: Hello from C 50002 Publisher!
+2025-04-27 12:22:31 [INFO]: Received UDP message: Hello from C 50002 Publisher!
+2025-04-27 12:22:33 [INFO]: Received UDP message: Hello from C 50002 Publisher!
+2025-04-27 12:22:37 [INFO]: Received UDP message: Hello from C 50002 Publisher!
+2025-04-27 12:22:39 [INFO]: Received UDP message: Hello from C 50002 Publisher!
+2025-04-27 12:22:41 [INFO]: Received UDP message: Hello from C 50002 Publisher!
+2025-04-27 12:22:41 [INFO]: Stopped listening to multicast group and closed socket.
+2025-04-27 12:26:16 [INFO]: Successfully bound to port 50002
+2025-04-27 12:26:16 [INFO]: Successfully joined multicast group: 239.255.0.1
+2025-04-27 12:26:20 [INFO]: Stopped listening to multicast group and closed socket.
+2025-04-27 12:26:27 [INFO]: Successfully bound to port 50002
+2025-04-27 12:26:27 [INFO]: Successfully joined multicast group: 239.255.0.1
+2025-04-27 12:26:29 [INFO]: Received UDP message: Hello from C 50002 Publisher!
+2025-04-27 12:26:31 [INFO]: Received UDP message: Hello from C 50002 Publisher!
+2025-04-27 12:26:33 [INFO]: Received UDP message: Hello from C 50002 Publisher!
+2025-04-27 12:26:35 [INFO]: Received UDP message: Hello from C 50002 Publisher!
+2025-04-27 12:26:37 [INFO]: Received UDP message: Hello from C 50002 Publisher!
+2025-04-27 12:26:39 [INFO]: Received UDP message: Hello from C 50002 Publisher!
+2025-04-27 12:31:16 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-27 12:41:33 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-27 12:53:04 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-27 12:53:06 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-27 13:27:48 [ERROR]: Failed to join multicast group: 220.255.0.1
+2025-04-27 13:32:36 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-27 13:32:39 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-27 13:32:44 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-27 13:32:51 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-27 13:33:07 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-27 13:40:02 [ERROR]: Failed to join multicast group: 0.0.0.0
+2025-04-27 13:41:10 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-27 13:46:15 [ERROR]: Failed to join multicast group: 0.0.0.0
+2025-04-27 13:46:17 [ERROR]: Failed to join multicast group: 0.0.0.0
+2025-04-27 15:09:41 [ERROR]: Failed to join multicast group: 
+2025-04-27 15:11:59 [ERROR]: Failed to join multicast group: 
+2025-04-27 15:24:53 [ERROR]: Failed to join multicast group: 0.0.0.0
+2025-04-27 15:26:27 [ERROR]: Failed to join multicast group: 
+2025-04-27 15:37:12 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-27 19:15:27 [ERROR]: Failed to join multicast group: 0.0.0.0
+2025-04-28 01:03:29 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-28 01:03:32 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-28 01:03:36 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-28 01:03:43 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-28 01:07:45 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-28 01:15:36 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-28 01:19:02 [ERROR]: Failed to join multicast group: 
+2025-04-28 01:20:32 [ERROR]: Failed to join multicast group: 
+2025-04-28 01:21:09 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-28 01:21:13 [ERROR]: Failed to join multicast group: 0.0.0.0
+2025-04-28 01:26:10 [ERROR]: Failed to join multicast group: 
+2025-04-28 01:26:12 [ERROR]: UDP bind failed: The bound address is already in use
+2025-04-28 01:26:14 [ERROR]: Failed to join multicast group: 
+2025-04-28 01:26:43 [ERROR]: Failed to join multicast group: 
+2025-04-28 01:32:33 [ERROR]: Failed to join multicast group: 
+2025-04-28 01:35:11 [ERROR]: Failed to join multicast group: 
+2025-04-28 01:35:24 [ERROR]: Failed to join multicast group: 
+2025-04-28 01:40:16 [ERROR]: UDP bind failed: The bound address is already in use
+
+

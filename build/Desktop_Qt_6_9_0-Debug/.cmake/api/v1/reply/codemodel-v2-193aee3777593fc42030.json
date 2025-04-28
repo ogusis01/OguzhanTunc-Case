@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-32c17801ca047b341061.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bozankaya",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-e5432fafebda3337759d.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-ae5429dd8128186e10b4.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-fcc566b0c8ae36cff9b0.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-a9a713f67564eee1b0f2.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-620ebd57429ffb6dd41b.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbozankaya::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbozankaya-Debug-f1660dd3f54f438eee39.json",
+					"name" : "appbozankaya",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbozankaya_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbozankaya_autogen-Debug-81fc5af30f3535060c4d.json",
+					"name" : "appbozankaya_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbozankaya_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbozankaya_autogen_timestamp_deps-Debug-ea956112ebf9a2e88373.json",
+					"name" : "appbozankaya_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbozankaya_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbozankaya_copy_qml-Debug-a6e9d6818da54839a262.json",
+					"name" : "appbozankaya_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbozankaya_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbozankaya_copy_res-Debug-b98f4631b4a08b1b0ce1.json",
+					"name" : "appbozankaya_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbozankaya_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbozankaya_qmlimportscan-Debug-bf3c47fe571d34bd0d87.json",
+					"name" : "appbozankaya_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbozankaya_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbozankaya_qmllint-Debug-4ce64c92c8991942e992.json",
+					"name" : "appbozankaya_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbozankaya_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbozankaya_qmllint_json-Debug-e3704037af94bbaa73db.json",
+					"name" : "appbozankaya_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbozankaya_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbozankaya_qmllint_module-Debug-54b5c417dd842e38bbdb.json",
+					"name" : "appbozankaya_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appbozankaya_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appbozankaya_qmltyperegistration-Debug-fbb02a8fd411a3cf3290.json",
+					"name" : "appbozankaya_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appbozankaya_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appbozankaya_aotstats_target-Debug-4ad9a80a4764ad7247b2.json",
+					"name" : "module_appbozankaya_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug",
+		"source" : "/home/ogusis/bozankaya"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,15 @@
+-rootPath
+/home/ogusis/bozankaya
+-cmake-output
+-output-file
+/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/appbozankaya_build.cmake
+-importPath
+/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/bozankaya
+-importPath
+/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug
+-importPath
+/opt/Qt/6.9.0/gcc_64/qml
+-qrcFiles
+/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_bozankaya.qrc
+/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appbozankaya_raw_qml_0.qrc
+/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/resources.qrc

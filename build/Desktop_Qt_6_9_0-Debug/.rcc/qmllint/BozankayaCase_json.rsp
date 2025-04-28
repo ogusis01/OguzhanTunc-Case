@@ -1,0 +1,7 @@
+--bare
+-I
+/opt/Qt/6.9.0/gcc_64/qml
+--resource
+/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_Bozankaya.qrc
+--json
+/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/BozankayaCase_qmllint.json

@@ -1,0 +1,5 @@
+--resource
+/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_Bozankaya.qrc
+--resource
+/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/BozankayaCase_raw_qml_0.qrc
+/qt/qml/Bozankaya/Main.qml

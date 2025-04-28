@@ -1,0 +1,5 @@
+module bozankaya
+typeinfo appbozankaya.qmltypes
+prefer :/qt/qml/bozankaya/
+Main 1.0 Main.qml
+

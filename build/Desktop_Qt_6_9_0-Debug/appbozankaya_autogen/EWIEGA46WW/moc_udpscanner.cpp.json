@@ -1,0 +1,26 @@
+{
+    "classes": [
+        {
+            "className": "UdpScanner",
+            "lineNumber": 7,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "scanUdpSockets",
+                    "returnType": "QStringList"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "UdpScanner",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "udpscanner.h",
+    "outputRevision": 69
+}

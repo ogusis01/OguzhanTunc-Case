@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appbozankaya_FILE /home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/appbozankaya)
+set(__QT_DEPLOY_TARGET_appbozankaya_TYPE EXECUTABLE)

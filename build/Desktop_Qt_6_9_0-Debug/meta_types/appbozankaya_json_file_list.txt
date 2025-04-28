@@ -1,0 +1,5 @@
+/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/appbozankaya_autogen/include/../EWIEGA46WW/moc_canmanager.cpp.json
+/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/appbozankaya_autogen/include/../EWIEGA46WW/moc_udplistener.cpp.json
+/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/appbozankaya_autogen/include/../EWIEGA46WW/moc_udppublisher.cpp.json
+/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/appbozankaya_autogen/include/../EWIEGA46WW/moc_udpscanner.cpp.json
+/home/ogusis/bozankaya/build/Desktop_Qt_6_9_0-Debug/appbozankaya_autogen/include/../EWIEGA46WW/moc_xmlparser.cpp.json
